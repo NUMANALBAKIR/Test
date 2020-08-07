@@ -1,2 +1,8 @@
 1
 2b
+3b-	Steps:
+		make changes
+		commit to branch
+		publish branch
+		merge to master
+		publish changes
